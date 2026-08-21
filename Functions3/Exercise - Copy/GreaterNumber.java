@@ -1,7 +1,5 @@
 //Write a function which takes in 2 numbers and returns the greater of those two.
 
-package Functions.Exercise;
-
 import java.util.Scanner;
 
 public class GreaterNumber {

@@ -1,5 +1,3 @@
-package Functions.Exercise;
-
 import java.util.Scanner;
 
 public class CountNumbers {

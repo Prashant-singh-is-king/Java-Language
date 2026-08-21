@@ -1,7 +1,5 @@
 //Enter 3 numbers from the user & make a function to print their average.
 
-package Functions.Exercise;
-
 import java.util.Scanner;
 
 public class AvgOfThreeNumbers {
