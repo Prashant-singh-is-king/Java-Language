@@ -1,4 +1,4 @@
-
+package Exercise;
 //Write an infinite loop using do while condition.
 
 public class InfiniteLoof {

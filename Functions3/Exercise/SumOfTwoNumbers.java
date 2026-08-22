@@ -1,5 +1,5 @@
-
-import java.util.Scanner;
+package Exercise;
+import java.util.*;
 
 public class SumOfTwoNumbers {
     public static int calculateSum(int a , int b){
