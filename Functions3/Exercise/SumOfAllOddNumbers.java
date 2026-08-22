@@ -1,3 +1,4 @@
+
 //Write a function to print the sum of all odd numbers from 1 to n.
 
 import java.util.Scanner;
@@ -18,6 +19,5 @@ public class SumOfAllOddNumbers {
         int n = sc.nextInt();
         System.out.print(CalculateSum(n));
 
-        sc.close();
     }
 }
